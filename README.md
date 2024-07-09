@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself   Mugunth Narayanan
 =========================================================================================================================================
 
-* 🌍  I'm based in Coimbatore, India
+* 🌍  Living in Coimbatore, India
 * ✉️  You can contact me at [mugunthnarayanan@gmail.com](mailto:mugunthnarayanan@gmail.com)
 
 <br/>
