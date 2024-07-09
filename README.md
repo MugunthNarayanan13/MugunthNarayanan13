@@ -54,6 +54,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
+# 👨‍💻 Competitive Coding Platforms:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mugunthnarayanan?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
+---
+
 <br/>
 
 <p align="center">  
